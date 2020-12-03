@@ -19,6 +19,6 @@ public interface AuthConstants {
 	 *     "tokenExp": long // token expire time
 	 * }
 	 */
-	public final static String SDK_JWTTOKEN = JWT_TOKEN;
+	public final static String SDK_JWTTOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6IjdTZnU2eHhkUmtXaTVsWXZTYjB1ckEiLCJleHAiOjE2MDY5ODIwNzAsImlhdCI6MTYwNjk3NjY3MX0.jM22i3Jh5LN_4xxpJlNlKTrvF-U3-HGe-fCX5TAoITE";
 
 }
